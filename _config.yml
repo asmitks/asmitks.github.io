@@ -7,16 +7,16 @@ title: asmit
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: Asmit Kumar Singh
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Research: "https://www.researchgate.net/profile/Asmit_Kumar_Singh"
+    - Projects: "https://www.github.com/asmitks"
+#   Author's home: "https://asmitks.com"
 
 # --- Logo --- #
 
@@ -38,10 +38,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "asmit18025@iiitd.ac.in"
+#   facebook:
+  github: asmitks
+  twitter: asmitks
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -55,7 +55,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+ telegram: ossumito
 #  calendly: yourname
 
 # --- General options --- #
