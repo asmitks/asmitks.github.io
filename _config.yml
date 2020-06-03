@@ -1,8 +1,6 @@
 # --- Basic options --- #
 
 # Name of website
-
-# Name of website
 title: My website
 
 # Short description of your site
@@ -40,24 +38,24 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "asmit18025@iiitd.ac.in"
-  facebook: asmit.singh.3110
-  github: asmitks
-  twitter: asmitks
+  email: "someone@example.com"
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
   rss: true
 #  reddit: yourname
- linkedin: asmit-singh-a26373167
+#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
- instagram: asmit_ks
+#  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
- telegram: ossumito
+#  telegram: yourname
 #  calendly: yourname
 
 # --- General options --- #
