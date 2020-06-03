@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Asmit Kumar singh
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -16,7 +16,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+ 
 
 # --- Logo --- #
 
@@ -38,24 +38,24 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "asmit18025@iiitd.ac.in"
+  facebook: asmit.singh.3110
+  github: asmitks
+  twitter: asmitks
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: asmit-singh-a26373167
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+ instagram: asmit_ks
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+ telegram: ossumito
 #  calendly: yourname
 
 # --- General options --- #
