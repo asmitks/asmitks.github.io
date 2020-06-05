@@ -14,7 +14,7 @@ Gupta, S., Singh, A., Buduru, A. and Kumaraguru, P. Hashtags are (not) judgmenta
 ## 2019
 
 
-Singh, A., Mehan, P., Singh, U. and Aggarwal A. Overlooking Taxes in GDP (Mis)estimation. Is this Justified ? Background and Motivation.
+Singh, A., Mehan, P., Singh, U. and Aggarwal A. Overlooking Taxes in GDP (Mis)estimation. Is this Justified ? Background and Motivation. <a href="https://www.researchgate.net/publication/340299034_Overlooking_Taxes_in_GDP_Misestimation_Is_this_Justified_Background_and_Motivation"> <img src="../assets/img/paper.PNG" height="20px" href="http://precog.iiitd.edu.in/pubs/bigmm2020.pdf"></a>
 
 
-Alecia, B., Gordan, R., Singh, A. and Singh U. Towards a Digital Diatom: image processing and deep learning analysis of Bacillaria paradoxa dynamic morphology.
+Alecia, B., Gordan, R., Singh, A. and Singh U. Towards a Digital Diatom: image processing and deep learning analysis of Bacillaria paradoxa dynamic morphology. <a href="https://www.researchgate.net/publication/338145885_Towards_a_Digital_Diatom_image_processing_and_deep_learning_analysis_of_Bacillaria_paradoxa_dynamic_morphology"> <img src="../assets/img/paper.PNG" height="20px" href="http://precog.iiitd.edu.in/pubs/bigmm2020.pdf"></a>
