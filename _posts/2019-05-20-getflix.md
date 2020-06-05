@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GETFLIC
+title: GETFLIX
 subtitle: Not Netflix... a movie recommendation system
 gh-repo: asmitks/GETFLIX
 gh-badge: [star, fork, follow]
