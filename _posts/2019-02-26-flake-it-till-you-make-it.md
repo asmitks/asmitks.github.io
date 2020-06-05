@@ -3,7 +3,7 @@ layout: post
 title: Whats the point..
 subtitle: my take on nhilism
 cover-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [blog]
 ---
 
 What’s the point? I study, get into college, marry someone, retire and die. In this 18 years, I have experienced big and great moments. But I only remember the smallest of them, the most subtle ones, Walking in the hills in the spring, staring at the infinite night sky, a lonely walk in the woods. So what's the point of all this running around. It doesn't make sense . or does it? All the traditions, rituals, complexities of life do they have a meaning. Or are we just a speckle of energy enveloped in stardust in the infinite timeline of the universe waiting to die? Or is there a greater purpose to it? Have you had any similar thoughts?
