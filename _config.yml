@@ -57,8 +57,8 @@ footer-link-col: "#A44B8A"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "assets/img/rice-paper-3.png"
-footer-img: "assets/img/rice-paper-3.png"
+# navbar-img: "assets/img/rice-paper-3.png"
+# footer-img: "assets/img/rice-paper-3.png"
 # page-img: "/img/bg/noise.png"
 
 # --- Footer options --- #
