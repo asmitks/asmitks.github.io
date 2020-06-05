@@ -3,7 +3,7 @@ layout: post
 title: Sociopaths and Psychopaths 
 subtitle: I am not a sociopath....or am I?
 
-tags: [test]
+tags: [Blog]
 comments: true
 ---
 The little time that I get between the never-ending deadlines and projects, I more or less spend it on youtube literally watching anything(trust me anything..) . So last week I came across this video playlist by Shane dawson who in my opinion has given a whole new dimension to YouTube drama. The playlist was about jake paul who according to me is an absolute madman ready to do anything for views. Shane connected jake’s qualities with a sociopath. He used certain traits and qualities to make a really vague definition of a sociopath which according to me would fit a lot of people. This made me think who exactly is a sociopath.
