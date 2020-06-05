@@ -8,7 +8,7 @@ You can check my work on  [Research Gate](https://www.researchgate.net/profile/A
 ## 2020
 
 <img src="../assets/img/conference-short-paper.png" height="20px"> 
-Gupta, S., Singh, A., Buduru, A. and Kumaraguru, P. Hashtags are (not) judgmental: The untold story of Lok Sabha elections 2019. In 6th IEEE International Conference on Multimedia Big Data (BigMM) 2020
+Gupta, S., Singh, A., Buduru, A. and Kumaraguru, P. Hashtags are (not) judgmental: The untold story of Lok Sabha elections 2019. In 6th IEEE International Conference on Multimedia Big Data (BigMM) 2020 <img src="../assets/img/paper.png" height="20px" href="http://precog.iiitd.edu.in/pubs/bigmm2020.pdf"> 
 
 
 ## 2019
