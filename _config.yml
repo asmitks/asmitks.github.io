@@ -51,7 +51,7 @@ page-col: "#1B1B2F"
 link-col: "#A44B8A"
 hover-col: "#724565"
 footer-col: "#E43F5A"
-footer-text-col: "#777777"
+footer-text-col: "#FFFFFF"
 footer-link-col: "#A44B8A"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
@@ -65,8 +65,8 @@ footer-img: "assets/img/rice-paper-3.png"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
-  name: Asmit
+# author:
+#   name: Asmit
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
