@@ -5,5 +5,6 @@ subtitle: some stuff about me..
 ---
 
 ## About Me
-Hey! I am Asmit, CSE undergraduate at IIITD. I love to listen to music, code and sleep. I am also an undergraduate researcher [@Precog](https://precog.iiitd.edu.in)
-. I also like solving challenging programming questions.
+Hey! I am Asmit, CSE undergraduate at IIITD. I love to listen to music, code and sleep. I am an undergraduate researcher [@Precog](https://precog.iiitd.edu.in)
+. I also love solving challenging programming questions.
+
