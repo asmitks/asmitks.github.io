@@ -44,20 +44,20 @@ title-img: "/assets/img/profile.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#162447"
-navbar-text-col: "#FFFFFF"
-navbar-children-col: "#1F4068"
-page-col: "#1B1B2F"
+navbar-col: "#88bbe4"
+navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
+page-col: "#FFFFFF"
 link-col: "#A44B8A"
 hover-col: "#724565"
-footer-col: "#E43F5A"
-footer-text-col: "#FFFFFF"
+footer-col: "#88bbe4"
+footer-text-col: "#777777"
 footer-link-col: "#A44B8A"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "assets/img/rice-paper-3.png"
+navbar-img: "assets/img/bg.jpg"
 # footer-img: "assets/img/rice-paper-3.png"
 # page-img: "/img/bg/noise.png"
 
