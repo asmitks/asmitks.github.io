@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Plant-X
+title: India's GDP misestimation
 cover-img: /assets/img/path.jpg
-subtitle: everything to do with plants at once...
+subtitle: Analysis
 gh-repo: asmitks/GDP-misestimation
 gh-badge: [star, fork, follow]
 tags: [test]
