@@ -2,7 +2,7 @@
 layout: post
 title: GETFLIC
 subtitle: Not Netflix... a movie recommendation system
-gh-repo: asmitks/GET1FLIX
+gh-repo: asmitks/GETFLIX
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
