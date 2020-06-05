@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Asmit Singh
 subtitle: some stuff about me..
 ---
