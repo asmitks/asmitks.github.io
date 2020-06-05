@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sociopaths and Psychopaths 
-subtitle: I am not a sociopath....or am I?
+subtitle: :/
 
 tags: [Blog]
 comments: true
