@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-I am also an undergraduate researcher. Primarily my research interest has been at the intersection of Machine Learning, Deep Learning, and social-systems(analysis, security etc.) and biology.
+I am also an undergraduate researcher. Primarily my research interest has been at the intersection of Machine Learning, Deep Learning, social-systems(analysis, security etc.) and biology.
 You can check my work on  [Research Gate](https://www.researchgate.net/profile/Asmit_Kumar_Singh)
 ## 2020
 
