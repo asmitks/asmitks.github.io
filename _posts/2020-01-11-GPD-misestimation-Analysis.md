@@ -5,7 +5,7 @@ cover-img: /assets/img/path.jpg
 subtitle: Analysis
 gh-repo: asmitks/GDP-misestimation
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Analysis, Econometrics, OLS]
 comments: true
 ---
 
