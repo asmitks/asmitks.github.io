@@ -11,10 +11,10 @@ You can check my work on  [Research Gate](https://www.researchgate.net/profile/A
 Gupta, S., Singh, A., Buduru, A. and Kumaraguru, P. Hashtags are (not) judgmental: The untold story of Lok Sabha elections 2019. In 6th IEEE International Conference on Multimedia Big Data (BigMM) 2020
 
 
-##2019
+## 2019
 
 
-Singh, A., Mehan, p., Singh, U. and Aggarwal A. Hashtags are (not) judgmental: Overlooking Taxes in GDP (Mis)estimation. Is this Justified ? Background and Motivation.
+Singh, A., Mehan, P., Singh, U. and Aggarwal A. Overlooking Taxes in GDP (Mis)estimation. Is this Justified ? Background and Motivation.
 
 
-Alecia, B., Gordan, R., Singh, A. and Singh U. Hashtags are (not) judgmental: Towards a Digital Diatom: image processing and deep learning analysis of Bacillaria paradoxa dynamic morphology.
+Alecia, B., Gordan, R., Singh, A. and Singh U. Towards a Digital Diatom: image processing and deep learning analysis of Bacillaria paradoxa dynamic morphology.
