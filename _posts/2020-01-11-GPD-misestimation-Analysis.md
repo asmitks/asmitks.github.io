@@ -30,7 +30,7 @@ should have been included or not included while testing the misestimation of the
 ![alt text](https://raw.githubusercontent.com/asmitks/images/master/Research_poster.jpg)
 
 
-Please look at 'Report.pdf' for further deatails.
+Please look at [Link]('https://www.researchgate.net/publication/340299034_Overlooking_Taxes_in_GDP_Misestimation_Is_this_Justified_Background_and_Motivation') for further deatails.
 
 
 Teammates : Paras Mehan[parasmehan123] ; Ujjwal Singh[ujjwalll] ; Archit Aggarwal[nahimilega]
