@@ -15,7 +15,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: "A S M I T"
+# title: "A S M I T"
 
 # Short description of your site
 description: chamber of screts.
@@ -49,11 +49,11 @@ navbar-col: "#28282B"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
+link-col: "#FEE715FF"
+hover-col: "#FEE715FF"
 footer-col: "#28282B"
 footer-text-col: "#FFFFFF"
-footer-link-col: "#404040"
+footer-link-col: "#FEE715FF"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
