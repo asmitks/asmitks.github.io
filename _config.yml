@@ -49,11 +49,11 @@ navbar-col: "#28282B"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
-link-col: "#FEE715FF"
-hover-col: "#FEE715FF"
+link-col: "#EDF5E1"
+hover-col: "#EDF5E1"
 footer-col: "#28282B"
 footer-text-col: "#FFFFFF"
-footer-link-col: "#FEE715FF"
+footer-link-col: "#EDF5E1"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
@@ -101,7 +101,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "asmitks.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "asmitks.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -127,7 +127,7 @@ url-pretty: "asmitks.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 
-disqus: "asmitksgithubio"
+# disqus: "asmitksgithubio"
 
 
 # To use Facebook Comments, fill in a Facebook App ID
