@@ -23,7 +23,7 @@ subtitle: some stuff about me..
 
 ## Projects
 
-- `Characterization of Koo` <a href ="http://precog.iiitd.edu.in/"><img src="../assets/img/arxiv.png" height="25px" href="http://precog.iiitd.edu.in/" alt="Precog"></a><a href ="http://precog.iiitd.edu.in/"><img src="../assets/img/bs.jpg" height="25px" href="http://precog.iiitd.edu.in/" alt="Precog"></a><a href ="http://precog.iiitd.edu.in/"><img src="../assets/img/print.png" height="25px" href="http://precog.iiitd.edu.in/" alt="Precog"></a><a href ="http://precog.iiitd.edu.in/"><img src="../assets/img/wp.png" height="25px" href="http://precog.iiitd.edu.in/" alt="Precog"></a>
+- __Characterization of Koo__ <a href ="http://precog.iiitd.edu.in/"><img src="../assets/img/arxiv.png" height="25px" href="http://precog.iiitd.edu.in/" alt="Precog"></a><a href ="http://precog.iiitd.edu.in/"><img src="../assets/img/bs.jpg" height="25px" href="http://precog.iiitd.edu.in/" alt="Precog"></a><a href ="http://precog.iiitd.edu.in/"><img src="../assets/img/print.png" height="25px" href="http://precog.iiitd.edu.in/" alt="Precog"></a><a href ="http://precog.iiitd.edu.in/"><img src="../assets/img/wp.png" height="25px" href="http://precog.iiitd.edu.in/" alt="Precog"></a>
 
 
 
