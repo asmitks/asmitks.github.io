@@ -27,11 +27,11 @@ subtitle: some stuff about me..
 
 - __Unmasked COVID-19__ <a href ="https://arxiv.org/abs/2011.00052"><img src="../assets/img/arxiv.png" height="25px" alt="Precog">   </a><a href ="https://precog.iiitd.edu.in/blog/2021/05/07/is-a-democrat-more-likely-to-wear-a-mask-than-a-republican/"><img src="../assets/img/wp.png" height="25px" alt="Precog">   </a>
 
-- __Hashtags are not judgemental__ <a href ="https://arxiv.org/abs/2011.00052"><img src="../assets/img/arxiv.png" height="25px" alt="Precog">   </a><a href ="https://ieeexplore.ieee.org/document/9232588"><img src="../assets/img/ieee.jpg" height="25px" alt="Precog">   </a>
+- __Hashtags are not judgemental__ <a href ="https://ieeexplore.ieee.org/document/9232588"><img src="../assets/img/ieee.jpg" height="25px" alt="Precog">   </a>
 
 ## Education
 
-- `2018-Present` __IIITD__ <a href ="https://www.iiitd.ac.in/"><img src="../assets/img/iiitd.jpg" height="25px" alt="IIITD">   </a>
+- `2018-Present` __IIITD__ <a href ="https://www.iiitd.ac.in/"><img src="../assets/img/iiit.jpg" height="25px" alt="IIITD">   </a>
 
 
 
