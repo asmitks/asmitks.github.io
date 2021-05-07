@@ -11,32 +11,21 @@ subtitle: some stuff about me..
 </div> -->
 
 
-## Currently
+## Experience
 
-Intern at Mathworks  <img src="../assets/img/mwlogo.png" height="25px">
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- `May 2021-Present` Intern at Mathworks  <img src="../assets/img/mwlogo.png" height="25px">
+- `May 2019-Present` Undergraduate researcher at Precog <img src="../assets/img/precog.png" height="25px">
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Social Computing, Deep Learning, Machine Learning, Biosystems.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-Present`
+__IIITD__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
