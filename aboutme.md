@@ -1,12 +1,9 @@
 ---
 layout: home
-title: Asmit Singh
+title: Asmit kumar Singh
 subtitle: some stuff about me..
 ---
 
-## About Me
-# Asmit kumar Singh
-Developer, Undergraduate researcher.
 
 <!-- <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -16,7 +13,7 @@ Developer, Undergraduate researcher.
 
 ## Currently
 
-Intern at Mathworks
+Intern at Mathworks  <img src="../assets/img/mwlogo.gif" height="20px">
 
 ### Specialized in
 
