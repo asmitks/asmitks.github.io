@@ -6,10 +6,9 @@ title: Research
 I am also an undergraduate researcher. Primarily my research interest has been at the intersection of Machine Learning, Deep Learning, social-systems(analysis, security etc.) and biology.
 You can check my work on  [Research Gate](https://www.researchgate.net/profile/Asmit_Kumar_Singh)
 ## 2021
+Singh, A., Jain, C., Jain, J., Jain, R., Sehgal, S., Kumaraguru, P. Koo: The new King? Characterizing India's Emerging Social Network. Precog Technical Report 2021 <a href="https://arxiv.org/abs/2103.13239"> <img src="../assets/img/paper.PNG" height="20px" href="http://precog.iiitd.edu.in/pubs/bigmm2020.pdf"></a>
+
 Singh, A., Mehan, P., Sharma, D., Pandey, R., Kumaraguru, P., Sethi Tavpritesh Koo: (UN)MASKED COVID-19 TRENDS from SOCIAL MEDIA <a href="https://preprints.jmir.org/preprint/26868"> <img src="../assets/img/paper.PNG" height="20px" href="http://precog.iiitd.edu.in/pubs/bigmm2020.pdf"></a>
-
-Singh, A., Mehan, P., Singh, U. and Aggarwal A. Overlooking Taxes in GDP (Mis)estimation. Is this Justified ? Background and Motivation. <a href="https://www.researchgate.net/publication/340299034_Overlooking_Taxes_in_GDP_Misestimation_Is_this_Justified_Background_and_Motivation"> <img src="../assets/img/paper.PNG" height="20px" href="http://precog.iiitd.edu.in/pubs/bigmm2020.pdf"></a>
-
 
 
 ## 2020
