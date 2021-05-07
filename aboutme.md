@@ -13,7 +13,7 @@ subtitle: some stuff about me..
 
 ## Currently
 
-Intern at Mathworks  <img src="../assets/img/mwlogo.png" height="60px">
+Intern at Mathworks  <img src="../assets/img/mwlogo.png" height="25px">
 
 ### Specialized in
 
