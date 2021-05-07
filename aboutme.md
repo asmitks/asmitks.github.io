@@ -31,7 +31,7 @@ subtitle: some stuff about me..
 
 ## Education
 
-- `2018-Present` __IIITD__ <a href ="https://www.iiitd.ac.in/"><img src="../assets/img/iiitd.png" height="25px" alt="Precog">   </a>
+- `2018-Present` __IIITD__ <a href ="https://www.iiitd.ac.in/"><img src="../assets/img/iiitd.jpg" height="25px" alt="IIITD">   </a>
 
 
 
