@@ -19,9 +19,9 @@ subtitle: some stuff about me..
 
 ## Research interests
 
-``Social Computing``, ``Deep Learning``, ``Machine Learning``, ``Biosystems``.
+``Social Computing``, ``Deep Learning``, ``Machine Learning``.
 
-## Languages and Frameworks
+<!-- ## Languages and Frameworks -->
 
 
 ## Some Work
