@@ -25,7 +25,7 @@ description: chamber of screts.
 # List of links in the navigation bar
 navbar-links:
 #   Blog: ""
-  About: "index"
+  About: "aboutme"
   # Tags: "https://melyanna.github.io/tags/"
   # Website: "https://melyanna.net/"
   Research: "research"
