@@ -23,7 +23,7 @@ subtitle: some stuff about me..
 
 ## Projects
 
-- __Characterization of Koo__ <a href ="http://precog.iiitd.edu.in/"><img src="../assets/img/arxiv.png" height="25px" href="http://precog.iiitd.edu.in/" alt="Precog"></a><a href ="http://precog.iiitd.edu.in/"><img src="../assets/img/bs.jpg" height="25px" href="http://precog.iiitd.edu.in/" alt="Precog"></a><a href ="http://precog.iiitd.edu.in/"><img src="../assets/img/print.png" height="25px" href="http://precog.iiitd.edu.in/" alt="Precog"></a><a href ="http://precog.iiitd.edu.in/"><img src="../assets/img/wp.png" height="25px" href="http://precog.iiitd.edu.in/" alt="Precog"></a>
+- __Characterization of Koo__ <a href ="https://arxiv.org/abs/2103.13239"><img src="../assets/img/arxiv.png" height="25px" alt="Precog">   </a><a href ="https://www.business-standard.com/article/technology/koo-has-a-stronger-network-than-bigger-rival-twitter-says-study-121032600745_1.html"><img src="../assets/img/bs.jpg" height="25px" alt="Precog">   </a><a href ="https://theprint.in/tech/republic-tv-has-most-mentions-on-indian-twitter-koo-modi-ministers-in-top-10-too-study/642040/"><img src="../assets/img/print.png" height="25px" alt="Precog">   </a><a href ="https://precog.iiitd.edu.in/blog/2021/03/25/koo-the-new-king-characterizing-indias-emerging-social-network/"><img src="../assets/img/wp.png" height="25px" alt="Precog">   </a>
 
 
 
