@@ -21,7 +21,7 @@ title: Asmit kumar Singh
 
 ``Social Computing``, ``Deep Learning``, ``Machine Learning``.
 
-### Languages and Frameworks
+### tools
 <a href ="https://www.python.org/"><img src="../assets/img/python.png" height="25px" alt="Precog">        </a>
 <a href ="https://isocpp.org/"><img src="../assets/img/c++.png" height="25px" alt="Precog">        </a>
 <a href ="https://www.java.com/en/"><img src="../assets/img/java.png" height="25px" alt="Precog">        </a>
