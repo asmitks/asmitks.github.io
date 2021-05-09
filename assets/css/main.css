@@ -782,7 +782,7 @@ table tr:nth-child(2n) {
 }
 table tr th {
   font-weight: bold;
-  border: 1px solid #cccccc;
+  border: 1px solid #cccc;
   text-align: left;
   margin: 0;
   padding: 0.375rem 0.8125rem;
