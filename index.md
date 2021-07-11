@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 
 
 ---
@@ -38,11 +38,18 @@ layout: page
 
 - ##__Hashtags are not judgemental__ <a href ="https://ieeexplore.ieee.org/document/9232588"><br><img src="../assets/img/ieee.jpg" height="50px" alt="Precog">   </a>
 
+
+### Notable Coursework
+
+- Deep Learning
+- Natural Language Processing
+- Reinfocement Learning
+- Privacy and Security in Online Soical Media
+- Graph Theory
+- Econometrics
+- Theory of Computation
+
 ### Education
 
 - `2018-Present` Btech CSE at <a href ="https://www.iiitd.ac.in/"><img src="../assets/img/iiit.jpg" height="50px" alt="IIITD">   </a>
 
-
-### Notable Coursework
-
-- 
