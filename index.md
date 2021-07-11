@@ -27,7 +27,7 @@ layout: home
 ### Notable Work
 - __Characterization of Koo__ 
 <br>
-Analyzed `4.5 million users` and their follower-followee network to characterize the emerging `multilingual` Indian OSN `Koo`.
+Analyzed `4.5 million users` and their follower-followee network to characterize the emerging `multilingual` Indian social media Koo.
 Featured in : <a href ="https://arxiv.org/abs/2103.13239"><img src="../assets/img/arxiv.png" height="30px" alt="Precog">   </a><a href ="https://www.business-standard.com/article/technology/koo-has-a-stronger-network-than-bigger-rival-twitter-says-study-121032600745_1.html"><img src="../assets/img/bs.png" height="30px" alt="Precog">   </a><a href ="https://theprint.in/tech/republic-tv-has-most-mentions-on-indian-twitter-koo-modi-ministers-in-top-10-too-study/642040/"><img src="../assets/img/print.png" height="30px" alt="Precog">   </a><a href ="https://precog.iiitd.edu.in/blog/2021/03/25/koo-the-new-king-characterizing-indias-emerging-social-network/"><img src="../assets/img/wp.png" height="30px" alt="Precog">   </a>
 
 
