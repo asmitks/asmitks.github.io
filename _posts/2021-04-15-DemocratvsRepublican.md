@@ -51,3 +51,10 @@ Both Democratic and Republican states show a jump in the percentage of masks, at
 ## Discussion
 
 Our analysis of Instagram finds significant differences between Democratic and Republican states in reaction to non-pharmaceutical interventions against COVID-19. Our findings support the existing on-ground and self-reported surveys, showing significantly higher adoption of face-coverings and social distancing, by Democratic states as compared to Republican states. This goes on to show the relevance of Social Media as a critical tool for understanding and tracking real-world events and sentiments of the population.
+
+[Preprint](https://link-url-here.org) submitted to JMIR
+
+## Team
+- Paras Mehan
+- Dr. Ponnurangam Kumaraguru
+- Dr. Tavpritesh Seth
