@@ -4,7 +4,7 @@ title: Is a Democrat more likely to wear a mask than a Republican??
 cover-img: /assets/img/demorepub.jpeg
 subtitle:  Unmasking the partisan combat, an analysis through Instagram
 tags: [Analysis, pandas, Deep Learning, Instagram, OSN, Public Health, Covid-19]
-image : /assets/img/alluvial.png
+image_cover : /assets/img/alluvial.png
 comments: true
 ---
 
@@ -52,7 +52,7 @@ Both Democratic and Republican states show a jump in the percentage of masks, at
 
 Our analysis of Instagram finds significant differences between Democratic and Republican states in reaction to non-pharmaceutical interventions against COVID-19. Our findings support the existing on-ground and self-reported surveys, showing significantly higher adoption of face-coverings and social distancing, by Democratic states as compared to Republican states. This goes on to show the relevance of Social Media as a critical tool for understanding and tracking real-world events and sentiments of the population.
 
-[Preprint](https://link-url-here.org) submitted to JMIR
+[Preprint](https://preprints.jmir.org/preprint/26868) submitted to JMIR
 
 ## Team
 - Paras Mehan
