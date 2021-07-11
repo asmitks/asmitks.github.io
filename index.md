@@ -18,7 +18,6 @@ layout: home
 
 <br>
 
-
 ### Notable Work
 - __Characterization of Koo__ 
 <br>
@@ -38,7 +37,6 @@ Featured in : <a href ="https://arxiv.org/abs/2103.13239"><img src="../assets/im
 
 <br>
 
-
 ### Tools
 <a href ="https://www.python.org/"><img src="../assets/img/python.png" height="30px" alt="Precog">        </a>
 <a href ="https://isocpp.org/"><img src="../assets/img/c++.png" height="30px" alt="Precog">        </a>
@@ -48,6 +46,7 @@ Featured in : <a href ="https://arxiv.org/abs/2103.13239"><img src="../assets/im
 <a href ="https://pytorch.org/"><img src="../assets/img/pt.png" height="30px" alt="Precog">        </a>
 <a href ="https://www.tensorflow.org/"><img src="../assets/img/tf.png" height="30px" alt="Precog">        </a>
 <a href ="https://jupyter.org/"><img src="../assets/img/jupyter.png" height="30px" alt="Precog">        </a>
+
 <br>
 
 ### Notable Coursework
@@ -59,11 +58,13 @@ Featured in : <a href ="https://arxiv.org/abs/2103.13239"><img src="../assets/im
 - Graph Theory
 - Econometrics
 - Theory of Computation
+
 <br>
 
 ### Education
 
 - `2018-Present` Btech CSE at <a href ="https://www.iiitd.ac.in/"><img src="../assets/img/iiit.jpg" height="30px" alt="IIITD">   </a>
+
 <br>
 
 ### Blogs
