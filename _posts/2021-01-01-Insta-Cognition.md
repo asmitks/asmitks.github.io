@@ -19,8 +19,6 @@ indicators for analysing adherence to various policies.
 ## Data
 We collected public Instagram posts for any desired location. The data was collected through crawling Instagram’s explore location page. All the available reports worldwide are visible in the explore map
 
-Any user can also request for a new location report.
-)
 
 ## Pages
 ### Explore Page
