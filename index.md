@@ -43,4 +43,6 @@ title: Asmit kumar Singh
 - `2018-Present` Btech CSE at <a href ="https://www.iiitd.ac.in/"><img src="../assets/img/iiit.jpg" height="50px" alt="IIITD">   </a>
 
 
+### Notable Coursework
 
+- 
