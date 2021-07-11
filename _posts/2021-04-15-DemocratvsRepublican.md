@@ -35,12 +35,12 @@ To look at the political conversation going on in the collected data, we plot wo
 We observe a higher occurrence of hashtags like ‘bidenharris2020’, ‘trumpsucks’, ‘dumptrump’ in the captions of posts collected from Democratic states, while captions from the Republican states include hashtags like ‘trump2020’, ‘trumpsupporters’ in higher numbers. The partisan polarity in these states is captured in the above hashtags effectively.
 
 
-![Alluvial Diagram](/assets/img/alluvwc2ial.png)
+![Alluvial Diagram](/assets/img/wc2.png)
 
 In order to see how differently the Democratic states and Republican states reacted to the pandemic in terms of face-coverings and social distancing, we plot a timeline of the average percentage of people wearing masks and group pictures. A group picture is defined as a picture with greater than or equal to 2 faces detected. Group pictures are used as an estimator of adherence to social distancing measures.
 
 
-![Alluvial Diagram](/assets/img/analysis1.png)
+![Alluvial Diagram](/assets/img/anbalysis1.png)
 
 We observe that the percentage of group pictures starts at around the same level for both Democratic and Republican states and diverges as the pandemic grows. The Democratic states have a lower percentage of group pictures, indicating a more likely behaviour to follow social distancing measures. The difference in the daily average percentage of group pictures for Democrats and Republicans was found to be statistically significant.
 
