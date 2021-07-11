@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Projects 
-subtitle: My work..
+title: Blogs 
+subtitle: A peephole to my work and experiences
 ---
