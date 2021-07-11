@@ -15,7 +15,6 @@ layout: home
 
 - `May 2021- July 2021` Intern at Mathworks  <img src="../assets/img/mwlogo.png" height="30px">
 - `May 2019-Present` Undergraduate researcher at <a href ="http://precog.iiitd.edu.in/"><img src="../assets/img/precog.png" height="30px" href="http://precog.iiitd.edu.in/" alt="Precog"></a>
-
 <br>
 
 ### Notable Work
@@ -28,13 +27,11 @@ Featured in : <a href ="https://arxiv.org/abs/2103.13239"><img src="../assets/im
 - __Unmasked COVID-19__ <a href ="https://arxiv.org/abs/2011.00052"><br><img src="../assets/img/arxiv.png" height="30px" alt="Precog">   </a><a href ="https://precog.iiitd.edu.in/blog/2021/05/07/is-a-democrat-more-likely-to-wear-a-mask-than-a-republican/"><img src="../assets/img/wp.png" height="30px" alt="Precog">   </a>
 
 - __Hashtags are not judgemental__ <a href ="https://ieeexplore.ieee.org/document/9232588"><br><img src="../assets/img/ieee.jpg" height="30px" alt="Precog">   </a>
-
 <br>
 
 ### Research interests
 
 ``Social Computing``, ``Deep Learning``, ``Machine Learning``.
-
 <br>
 
 ### Tools
@@ -46,7 +43,6 @@ Featured in : <a href ="https://arxiv.org/abs/2103.13239"><img src="../assets/im
 <a href ="https://pytorch.org/"><img src="../assets/img/pt.png" height="30px" alt="Precog">        </a>
 <a href ="https://www.tensorflow.org/"><img src="../assets/img/tf.png" height="30px" alt="Precog">        </a>
 <a href ="https://jupyter.org/"><img src="../assets/img/jupyter.png" height="30px" alt="Precog">        </a>
-
 <br>
 
 ### Notable Coursework
@@ -58,13 +54,11 @@ Featured in : <a href ="https://arxiv.org/abs/2103.13239"><img src="../assets/im
 - Graph Theory
 - Econometrics
 - Theory of Computation
-
 <br>
 
 ### Education
 
 - `2018-Present` Btech CSE at <a href ="https://www.iiitd.ac.in/"><img src="../assets/img/iiit.jpg" height="30px" alt="IIITD">   </a>
-
 <br>
 
 ### Blogs
