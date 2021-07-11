@@ -12,6 +12,17 @@ comments: true
 
 This problem aims at training an agent to generate paintings using stroke based sequential actions. We plan to break down the given target image into a set number of strokes, using a RL agent, which can generate a painted image. Compare On Policy (PPO) and Off Policy (DDPG) methods for solving the problem. We also aim at incorporating style transfer while painting.
 
+
+## Applications
+- Learning to Paint is a complex process and often requires considerable time and effort to master the art
+- Making an AI agent learn how to reproduce an existing painting by decomposing it into a sequence of brush strokes across the canvas.
+- The training process of such an agent does not require any considerable vast experience.
+- The problem statement has multiple applications in real life such as handwriting reproduction, painting restoration etc.
+- Additionally using concepts from neural style transfer, the reward for the agent can be adjusted in order to incorporate style elements from a reference image.
+
+For results, and presentation see  [this](https://docs.google.com/presentation/d/12qKSNMhIWJkjU_1e4IlkE3kd8cIfE_pRqcq-_oIeAsw/edit?usp=sharing)
+
+
 ### Quickstart 
 
 For training and testing on MNIST
