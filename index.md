@@ -35,14 +35,15 @@ Featured in : <a href ="https://arxiv.org/abs/2103.13239"><img src="../assets/im
 <br>
 
 ### Tools
-<a href ="https://www.python.org/"><img src="../assets/img/python.png" height="30px" alt="Precog">        </a>
+<!-- <a href ="https://www.python.org/"><img src="../assets/img/python.png" height="30px" alt="Precog">        </a>
 <a href ="https://isocpp.org/"><img src="../assets/img/c++.png" height="30px" alt="Precog">        </a>
 <a href ="https://www.java.com/en/"><img src="../assets/img/java.png" height="30px" alt="Precog">        </a>
 <a href ="https://www.linux.org/"><img src="../assets/img/linux.png" height="30px" alt="Precog">        </a>
 <a href ="https://scikit-learn.org/stable/"><img src="../assets/img/sklearnlogo.png" height="30px" alt="Precog">        </a>
 <a href ="https://pytorch.org/"><img src="../assets/img/pt.png" height="30px" alt="Precog">        </a>
 <a href ="https://www.tensorflow.org/"><img src="../assets/img/tf.png" height="30px" alt="Precog">        </a>
-<a href ="https://jupyter.org/"><img src="../assets/img/jupyter.png" height="30px" alt="Precog">        </a>
+<a href ="https://jupyter.org/"><img src="../assets/img/jupyter.png" height="30px" alt="Precog">        </a> -->
+``Python``, ``Elasticsearch``, ``Kibana``, ``Flask``, ``Pandas``, ``Pytorch``, ``sklearn``.
 <br>
 
 ### Notable Coursework
