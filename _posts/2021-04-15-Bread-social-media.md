@@ -4,9 +4,12 @@ title: bRead
 cover-img: /assets/img/demorepub.jpeg
 subtitle:  Changing the way you consume content
 tags: [Social Media, Privacy, Flask, React, python, Twitter]
-image_cover : /assets/img/main-bread.png
+image_cover : /assets/img/bread.svg
 comments: true
 ---
+
+[bRead](https://bread.vercel.app/)
+
 
 ## What is the problem?
 A Filter Bubble is a state of intellectual isolation that can result from personalized searches when a social media algorithm selectively guesses what information a user would like to see based on their interaction history and other data which platform knows about them.
