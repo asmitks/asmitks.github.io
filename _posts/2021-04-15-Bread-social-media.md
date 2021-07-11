@@ -8,13 +8,12 @@ image_cover : /assets/img/bread.svg
 comments: true
 ---
 
-[Explore bRead](https://bread.vercel.app/)
-
-
 ## What is the problem?
 A Filter Bubble is a state of intellectual isolation that can result from personalized searches when a social media algorithm selectively guesses what information a user would like to see based on their interaction history and other data which platform knows about them.
 It is difficult for a person to find opposing views on a topic on social media. One has to make a conscious effort to get diverse views on some topic, and break out from the filter bubble created by the social media algorithms. However, some choose to keep their filter bubble intact in order to prevent information overload which leads to misinformation, another problem prevalent in OSMs today. 
 
+
+[Explore bRead](https://bread.vercel.app/)
 
 
 
