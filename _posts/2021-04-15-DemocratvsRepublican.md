@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is a Democrat more likely to wear a mask than a Republican??
-cover-img: /assets/img/wc1.png
+cover-img: /assets/img/demorepub.jpeg
 subtitle:  Unmasking the partisan combat, an analysis through Instagram
 tags: [Analysis, pandas, Deep Learning, Instagram, OSN, Public Health, Covid-19]
 image : /assets/img/alluvial.png
