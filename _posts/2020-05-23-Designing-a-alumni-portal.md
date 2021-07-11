@@ -6,7 +6,7 @@ subtitle:  A flask based Alumni Portal built for IIITD
 gh-repo: asmitks/IIITD_ALUMNI_PORTAL
 gh-badge: [star, fork, follow]
 tags: [Development, Full Stack, Flask, HTML, Google auth]
-image_cover : /assets/img/alumni-1.jpeg
+image_cover : /assets/img/download.jpeg
 comments: true
 ---
 
