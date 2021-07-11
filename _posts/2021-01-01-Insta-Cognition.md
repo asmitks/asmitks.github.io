@@ -2,7 +2,7 @@
 layout: post
 title: Instagram Cognition
 cover-img: /assets/img/cov.jpg
-subtitle:  Social Media Analysis for tracking location wise masks and collction of people.
+subtitle:  Social Media Analysis for tracking location wise masks and collection of people.
 tags: [Analysis, kibbana, elastic, Instagram, OSN, Public Health, Covid-19]
 image_cover : /assets/img/instagram.png
 comments: true
