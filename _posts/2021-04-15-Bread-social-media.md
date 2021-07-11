@@ -8,7 +8,7 @@ image_cover : /assets/img/bread.svg
 comments: true
 ---
 
-[bRead](https://bread.vercel.app/)
+[Explore bRead](https://bread.vercel.app/)
 
 
 ## What is the problem?
