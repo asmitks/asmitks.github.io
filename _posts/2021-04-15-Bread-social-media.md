@@ -1,7 +1,7 @@
 ---
 layout: post
 title: bRead
-cover-img: /assets/img/demorepub.jpeg
+cover-img: /assets/img/cov2.jpg
 subtitle:  Changing the way you consume content
 tags: [Social Media, Privacy, Flask, React, python, Twitter]
 image_cover : /assets/img/bread.svg
