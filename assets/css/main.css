@@ -484,9 +484,9 @@ footer .footer-custom-content {
   width: 100%;
 }
 .post-image {
-  float: top;
+  float: right;
   height: 12rem;
-  width: 100%;
+  width: 12rem;
   margin-top: -2.1875rem;
   filter: grayscale(10%);
 }
