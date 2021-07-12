@@ -59,7 +59,7 @@ Featured in : <a href ="https://arxiv.org/abs/2103.13239"><img src="../assets/im
 
 ### Education
 
-- `2018-Present` Btech CSE at <a href ="https://www.iiitd.ac.in/"><img src="../assets/img/iiit.jpg" height="30px" alt="IIITD">   </a>
+- `2018-Present` Btech CSE at <a href ="https://www.iiitd.ac.in/"><img src="../assets/img/iiit.jpg" height="30px" alt="IIITD">   </a>, 9.53
 <br>
 
 ### Blogs
