@@ -13,7 +13,7 @@ layout: home
 
 ### Experience
 
-- `May 2021- July 2021` Intern at Mathworks  <img src="../assets/img/mwlogo.png" height="30px">
+- `May 2021- July 2021` Software engineer intern at MathWorks  <img src="../assets/img/mwlogo.png" height="30px">
 - `May 2019-Present` Undergraduate researcher at <a href ="http://precog.iiitd.edu.in/"><img src="../assets/img/precog.png" height="30px" href="http://precog.iiitd.edu.in/" alt="Precog"></a>
 <br>
 
