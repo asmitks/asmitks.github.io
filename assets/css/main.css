@@ -201,6 +201,17 @@ img {
   padding-bottom: 1rem;
 }
 
+.namenav {
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 1.5;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left : 0rem;
+  font-family: 'Fuggles', cursive;
+  color : #FFFFFF;
+
+}
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
   font-weight: 800;
