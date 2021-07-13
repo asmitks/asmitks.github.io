@@ -15,6 +15,7 @@ layout: home
 
 - `May 2021- July 2021` Software engineer intern at MathWorks  <img src="../assets/img/mwlogo.png" height="30px">
 - `May 2019-Present` Undergraduate researcher at <a href ="http://precog.iiitd.edu.in/"><img src="../assets/img/precog.png" height="30px" href="http://precog.iiitd.edu.in/" alt="Precog"></a>
+- `May 2019- January 2020` Opensource contributor at <a href ="http://openworm.org/"><img src="../assets/img/openworm.jpeg" height="30px" href="http://openworm.org/" alt="Precog"></a>
 <br>
 
 ### Notable Work
