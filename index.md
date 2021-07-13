@@ -15,6 +15,7 @@ layout: home
 
 - `May 2021- July 2021` Software engineer intern at MathWorks  <img src="../assets/img/mwlogo.png" height="30px">
 - `May 2019-Present` Undergraduate researcher at <a href ="http://precog.iiitd.edu.in/"><img src="../assets/img/precog.png" height="30px" href="http://precog.iiitd.edu.in/" alt="Precog"></a>
+- `October 2019- November 2020` Backend Python developer at Wellowise <a href ="https://wellowise.com/"><img src="../assets/img/wello.png" height="30px" href="https://wellowise.com/" alt="Precog"></a>
 - `May 2019- January 2020` Opensource ML contributor at OpenWorm Foundation <a href ="http://openworm.org/"><img src="../assets/img/openworm.jpeg" height="30px" href="http://openworm.org/" alt="Precog"></a>
 <br>
 
